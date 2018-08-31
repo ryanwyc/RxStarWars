@@ -1,0 +1,38 @@
+PODS:
+  - RWHttpClient (0.0.1)
+  - RxBlocking (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - RxTest (4.2.0):
+    - RxSwift (~> 4.0)
+
+DEPENDENCIES:
+  - RWHttpClient (from `../RWHttpClient`)
+  - RxBlocking (~> 4.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - RxTest (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxBlocking
+    - RxCocoa
+    - RxSwift
+    - RxTest
+
+EXTERNAL SOURCES:
+  RWHttpClient:
+    :path: "../RWHttpClient"
+
+SPEC CHECKSUMS:
+  RWHttpClient: ca9b1af081d6f00e3ba20c196f6c643387077235
+  RxBlocking: e339d8a6e752e25ade95ff858466c55436668f59
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  RxTest: 8da864c0ee47534f586ff18fb0c7e5b2f1fe5023
+
+PODFILE CHECKSUM: af36d7577f14fb4cc46a5bf9490420ea549a0ed3
+
+COCOAPODS: 1.5.3

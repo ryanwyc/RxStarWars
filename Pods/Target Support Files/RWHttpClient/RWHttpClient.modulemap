@@ -1,0 +1,6 @@
+framework module RWHttpClient {
+  umbrella header "RWHttpClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
