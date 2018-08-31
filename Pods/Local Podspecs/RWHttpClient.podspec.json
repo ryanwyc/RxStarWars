@@ -4,7 +4,7 @@
   "summary": "A REST HTTP networking client.",
   "description": "A client to make REST service call.",
   "homepage": "https://github.com/ryanwyc/RWHttpClient",
-  "license": "Not Yet",
+  "license": "MIT",
   "authors": {
     "Ryan Wu": "ryan.wyc@gmail.com"
   },
